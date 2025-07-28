@@ -2,7 +2,7 @@
   "name": "vite-node-addon-loader",
   "version": "1.0.0",
   "description": "A Vite plugin for loading and bundling Node.js native addon (.node) files",
-  "main": "src-plugin/index.js",
+  "main": "index.js",
   "types": "types.d.ts",
   "type": "module",
   "scripts": {
