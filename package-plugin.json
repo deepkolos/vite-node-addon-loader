@@ -1,0 +1,37 @@
+{
+  "name": "vite-node-addon-loader",
+  "version": "1.0.0",
+  "description": "A Vite plugin for loading .node files with automatic copying and hashing",
+  "main": "index.js",
+  "types": "types.d.ts",
+  "keywords": [
+    "vite",
+    "plugin",
+    "node",
+    "addon",
+    "native",
+    "electron",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/vite-node-addon-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/vite-node-addon-loader/issues"
+  },
+  "homepage": "https://github.com/your-username/vite-node-addon-loader#readme",
+  "peerDependencies": {
+    "vite": "^4.0.0 || ^5.0.0"
+  },
+  "files": [
+    "index.js",
+    "types.d.ts",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
